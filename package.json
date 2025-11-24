@@ -9,6 +9,11 @@
   },
   "dependencies": {
     "@walletconnect/web3-provider": "^1.8.0",
+    "@reown/appkit": "^1.8.14",
+    "@reown/appkit-adapter-wagmi": "^1.8.14",
+    "@reown/walletkit": "^1.2.11",
+    "@walletconnect/core": "^2.21.9",
+    "@walletconnect/utils": "^2.21.9",
     "cors": "^2.8.5",
     "ethers": "^5.7.2",
     "express": "^4.19.2"
